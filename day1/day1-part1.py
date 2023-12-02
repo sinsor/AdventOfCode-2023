@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import re
 
-file1 = open('input', 'r')
+file1 = open('day1.input', 'r')
 Lines = file1.readlines()
 
 sum = 0
